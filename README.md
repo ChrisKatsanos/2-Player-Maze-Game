@@ -76,19 +76,19 @@ Install Pygame with:
 ```bash
 pip install pygame
 
-##▶️ How to Run (Everything Inside One Markdown Block)
-# 1) Clone the repository
+-▶️ How to Run (Everything Inside One Markdown Block)
+ 1) Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
 
-# 2) Go into the project folder
+ 2) Go into the project folder
 cd your-repo-name
 
-# 3) Install pygame
+ 3) Install pygame
 pip install pygame
 
-# 4) Run the game (change the filename if yours is different)
+ 4) Run the game (change the filename if yours is different)
 python main.py
 
-# 5) Make sure these image files are in the same folder:
+ 5) Make sure these image files are in the same folder:
 #    - player1-removebg-preview.png
 #    - player_2-removebg-preview.png
